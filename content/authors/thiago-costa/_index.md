@@ -8,8 +8,8 @@ social:
   url: https://github.com/xlizaluizax
 - title: facebook
   url: ''
-- title: github
-  url: https://github.com
+- title: dev.to
+  url: https://dev.to/xlizaluizax/
 - title: github
   url: https://github.com
 - title: github
