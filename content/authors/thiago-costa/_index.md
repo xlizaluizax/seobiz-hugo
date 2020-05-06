@@ -6,6 +6,8 @@ bio: "Привет. Меня зовут Лиза и мне 25 лет. Я зан�
 avatar: "/images/photo_2020-01-27_01-39-48.jpg"
 featured: true
 social:
+- title: instagram
+  url: https://instagram.com/mayak_l
 - title: github
   url: https://github.com/xlizaluizax
 - title: facebook
